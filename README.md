@@ -14,7 +14,9 @@ O jogo consiste em:
 
 ## O projeto
 
-![Imagem do Jogo](https://cdn.discordapp.com/attachments/646426616351817762/674015240589148170/unknown.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/646426616351817762/674015240589148170/unknown.png">
+</p>
 
 O projeto foi desenvolvido como um trabalho para a matéria de `Arquitetura de Computadores II` no ano de 2020, ele explora uma lógica criada para trabalhar com diversos sprites, sendo somente para o pacman, um total de 8 (2 para cada lado).
 
