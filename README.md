@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img height="350px" widht="350px"  src="https://i.pinimg.com/originals/90/d2/e3/90d2e3ff2856032d36fcc7dc49334191.png">
+</p>
+
 # assemblyPacMan
 
 Esse projeto consiste em recriar o famoso jogo Pacman programando-o na linguagem Assembly
