@@ -32,23 +32,27 @@ O projeto necessita da biblioteca do processador [8086](https://pt.wikipedia.org
 
 ### O projeto :space_invader:
 
+O projeto exibe a seguinte tela, permitindo o movimento do jogador pelo WASD.
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/646426616351817762/674015240589148170/unknown.png">
 </p>
 
-
-
-### Estrutura para o Funcionamento do Jogo
+### Estrutura :hammer_and_wrench:
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/646426616351817762/675135853751828519/unknown.png">
 </p>
 
-São necessário `três principais` componentes para conseguir reproduzir o jogo:
+A imagem contém componentes que não são necessários para o funcionamento do jogo.
 
-> processador 8086 para comportar a lógica.<br>
-> processador 8253 para comportar os sons. (não implementado neste projeto) <br>
-> terminal de vídeo.<br>
+Somente `três` componentes são essenciais:
+
+<ul>
+  <li> processador 8086 para comportar a lógica. :heavy_check_mark:</li> 
+  <li> processador 8253 para comportar os sons. :x:</li> 
+  <li> terminal de vídeo. :heavy_check_mark:</li> 
+</ul>
 
 ---
 
